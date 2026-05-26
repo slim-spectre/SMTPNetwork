@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "EmailSender\EmailSender.csproj", "{B0EC87AC-F47E-4418-B215-15F4FAE6E4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailKitSender", "EmailKitSender\EmailKitSender.csproj", "{A938F01B-7F1E-4245-A792-8DCD80DBD599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0EC87AC-F47E-4418-B215-15F4FAE6E4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EC87AC-F47E-4418-B215-15F4FAE6E4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EC87AC-F47E-4418-B215-15F4FAE6E4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EC87AC-F47E-4418-B215-15F4FAE6E4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A938F01B-7F1E-4245-A792-8DCD80DBD599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A938F01B-7F1E-4245-A792-8DCD80DBD599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A938F01B-7F1E-4245-A792-8DCD80DBD599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A938F01B-7F1E-4245-A792-8DCD80DBD599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

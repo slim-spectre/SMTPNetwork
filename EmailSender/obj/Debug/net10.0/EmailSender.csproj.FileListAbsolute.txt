@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\bin\Debug\net10.0\EmailSender.exe
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\bin\Debug\net10.0\EmailSender.deps.json
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\bin\Debug\net10.0\EmailSender.runtimeconfig.json
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\bin\Debug\net10.0\EmailSender.dll
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\bin\Debug\net10.0\EmailSender.pdb
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.dll
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\refint\EmailSender.dll
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.pdb
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\EmailSender.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\SMTP\EmailSender\obj\Debug\net10.0\ref\EmailSender.dll
